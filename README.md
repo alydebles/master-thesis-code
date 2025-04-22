@@ -25,7 +25,7 @@ This script performs the main analysis and forecasting using the prepared data a
 
 ## Data Workflow
 
-Raw data is stored in `Data/Data Raw`. This data is processed in the first script, `thesis_prepare_variables.ipynb`, and the results are saved in `Data/Data Top` and `Data/Data Process`. These processed variables are then used in the subsequent scripts, ensuring a structured and sequential workflow.
+Raw data is stored in Data/Data Raw. This data is processed in the first script, thesis_prepare_variables.ipynb, and the outputs are saved in Data/Data Top and Data/Data Process. These processed files are used in the next scripts, following a structured and sequential workflow. The raw data is too large to upload to this repository. However, a README.txt file in the Data/Data Raw folder explains where and how to download the data.
 
 ## Notes
 
