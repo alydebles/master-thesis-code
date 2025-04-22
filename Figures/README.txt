@@ -1,1 +1,1 @@
-In this file the figures will be kept
+In this folder the figures will be kept
